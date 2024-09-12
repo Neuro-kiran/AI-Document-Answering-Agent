@@ -28,3 +28,24 @@ Follow these steps to set up and run the project:
 
    ```bash
    git clone https://github.com/yourusername/ai-document-query-bot.git
+
+## Requirements
+Python 3.7+: Ensure Python 3.7 or higher is installed on your machine.
+Virtual Environment: It's recommended to use a virtual environment to manage dependencies.
+
+## Configuration
+Slack Setup:
+Create a Slack app and obtain the bot token and app token.
+Add the bot to your Slack workspace and ensure it has permission to read messages and access files.
+
+OpenAI API Key:
+Sign up for OpenAI and generate an API key.
+
+Environment Variables:
+Add your credentials to the .env file as shown in the installation step.
+
+## Usage
+1.Upload a PDF file: Send a PDF document to any Slack channel or direct message where the bot is present.
+2.Ask Questions: Type questions related to the content of the uploaded PDF. The bot will respond with answers based on the document content.
+
+
