@@ -2,7 +2,7 @@
 
 A Slack bot that processes PDF documents and answers user queries based on the content of the document using OpenAI's language models and a FAISS vector database.
 
-![AI Document Query Bot](screenshots/bot_screenshot.png)  <!-- Add a screenshot of the bot in action -->
+![AI Document Query Bot](bot_screenshot.png)  <!-- Add a screenshot of the bot in action -->
 
 ## Features
 
